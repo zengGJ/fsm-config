@@ -1,7 +1,5 @@
 ﻿
 spring:
-  profiles:
-    include: dev
   cloud:
     config:
       override-none: false
